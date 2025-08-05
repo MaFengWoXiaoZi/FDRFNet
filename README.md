@@ -25,6 +25,7 @@ We recommend using the methodology outlined by **nnUNet** for data preprocessing
 Please refer to the nnUNet documentation for detailed instructions on how to prepare the datasets and manage the training/testing pipelines.
 
 ---
+Our network and trainer are located in `nnunetv2/nets` and `nnunetv2/nnUNetTrainer` folders, respectively.
 
 ## Environment Configuration
 
