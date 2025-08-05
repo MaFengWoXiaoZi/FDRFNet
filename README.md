@@ -24,7 +24,7 @@ We recommend using the methodology outlined by **nnUNet** for data preprocessing
 
 * [**nnUNet Official Page**: MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet)
 
-Please refer to the nnUNet documentation for detailed instructions on how to prepare the datasets and manage the training/testing pipelines.
+Please refer to the nnUNet documentation for detailed instructions on how to prepare the datasets and manage the training/inference pipelines.
 
 ---
 
