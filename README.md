@@ -18,12 +18,14 @@ To run the experiments and reproduce our results, please download the following 
 
 ## Data Preprocessing, Training, and Inference
 
+Our network and trainer are located in `nnunetv2/nets` and `nnunetv2/nnUNetTrainer` folders, respectively.
+
 We recommend using the methodology outlined by **nnUNet** for data preprocessing, model training, and testing. You can find more information and resources on their official page:
 
 * [**nnUNet Official Page**: MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet)
 
 Please refer to the nnUNet documentation for detailed instructions on how to prepare the datasets and manage the training/testing pipelines.
-Our network and trainer are located in `nnunetv2/nets` and `nnunetv2/nnUNetTrainer` folders, respectively.
+
 ---
 
 
