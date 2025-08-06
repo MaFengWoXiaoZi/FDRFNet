@@ -18,7 +18,7 @@ To run the experiments and reproduce our results, please download the following 
 
 ## Data Preprocessing, Training, and Inference
 
-Our network and trainer are located in `nnunetv2/nets` and `nnunetv2/nnUNetTrainer` folders, respectively.
+Our network and trainer are located in `nnunetv2/nets` and `nnunetv2/training/nnUNetTrainer` folders, respectively.
 
 We recommend using the methodology outlined by **nnUNet** for data preprocessing, model training, and testing. You can find more information and resources on their official page:
 
