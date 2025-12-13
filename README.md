@@ -2,7 +2,7 @@
 
 ---
 
-This repository contains the code for our paper, "**FDRFNet: A Feature Decoupling and Residual Fusion Network for Multimodal Medical Image Segmentation**," submitted to the **BIBM 2025** conference.
+This repository contains the code for our paper, "**FDRFNet: A Feature Decoupling and Residual Fusion Network for Multimodal Medical Image Segmentation**," submitted to the **ICME 2026** conference.
 
 ---
 
